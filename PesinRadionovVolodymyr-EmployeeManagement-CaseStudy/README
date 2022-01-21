@@ -1,0 +1,27 @@
+Hello!
+
+My name is Volodymyr Pesin-Radionov!
+
+My current project represents Employee Management application.
+
+My project represents next opperations:
+
+* Get all the employees
+* Add a new employee
+* Update an employee
+* Delete an employee
+* JUnit testing
+
+
+Technologies used:
+
+* Spring boot
+* Spring Framework
+* Maven
+* Java 8
+* Spring Data JPA (Hibernate)
+
+* To run my application, please launch your broswer and type in the search bar localhost:8177
+
+
+Thank you for checking out my project!
